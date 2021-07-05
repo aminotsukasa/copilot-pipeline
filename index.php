@@ -1,4 +1,4 @@
 <?php 
-echo  date('r');
-#phpinfo(); 
+#echo  date('r');
+phpinfo(); 
 ?>
